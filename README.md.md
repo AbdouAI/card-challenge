@@ -4,20 +4,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### The challenge
 
@@ -25,10 +18,8 @@ Replicate the desktop-design given to you.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: (https://github.com/AbdouAI/cardwebsite.github.io)
+- Live Site URL: (https://abdouai.github.io/cardwebsite.github.io/)
 
 ### Built with
 
@@ -52,7 +43,7 @@ During this project i learned the basics of Flexbox and Border-radius (for the c
 ### Useful resources
 
 (https://www.youtube.com/Kevin Powell)
--Great youtube channel for frontend Web developpment and very         beginner-friendly.
+-Great youtube channel for frontend Web developpment and very beginner-friendly.
 
 ## Author
 
